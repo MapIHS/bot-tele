@@ -1,0 +1,29 @@
+{
+  "name": "bot-tele",
+  "version": "1.0.0",
+  "description": "Bot Telegram",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MapIHS/bot-tele.git"
+  },
+  "keywords": [
+    "bot",
+    "telegram"
+  ],
+  "author": "Ihsan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MapIHS/bot-tele/issues"
+  },
+  "homepage": "https://github.com/MapIHS/bot-tele#readme",
+  "dependencies": {
+    "dotenv": "^16.3.2",
+    "telegraf": "^4.15.3",
+    "yt-search": "^2.10.4"
+  }
+}
